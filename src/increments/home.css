@@ -1,0 +1,16 @@
+.grey-text{
+    color:grey;
+}
+.value{
+    font-size: 18px;
+}
+button{
+    padding: 10px;
+    margin: 5px;
+    background-color: honeydew;
+    border: 2px solid grey;
+    color: black;
+    border-radius: 5px;
+    
+
+}
